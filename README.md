@@ -1,5 +1,5 @@
 # hobuild
-Build system for unix!
+Build system for unix! (not recommended, use C version!)
 
 hobuild - has a file extension of ```.hob```, and should always be named ```build.hob```, the syntax is simple
 
